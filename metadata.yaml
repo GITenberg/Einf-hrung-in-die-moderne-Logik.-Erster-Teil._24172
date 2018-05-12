@@ -1,0 +1,28 @@
+_repo: Einf-hrung-in-die-moderne-Logik.-Erster-Teil._24172
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Uphues, Goswin
+    birthdate: 1841
+    deathdate: 1916
+    gutenberg_agent_id: '26290'
+    url: http://www.gutenberg.org/2009/agents/26290
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2008-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24172'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Logic'
+- !lcc 'BC'
+- !lcsh 'Philosophy, German'
+title: Einführung in die moderne Logik. Erster Teil.
+url: http://www.gutenberg.org/ebooks/24172
